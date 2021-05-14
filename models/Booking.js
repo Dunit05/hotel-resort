@@ -26,6 +26,9 @@ const BookingSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
+    key: {
+      type: String,
+    },
     date: {
       type: Date,
       default: Date.now,

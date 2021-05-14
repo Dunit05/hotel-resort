@@ -288,7 +288,7 @@ export default class SingleRooms extends Component {
                       </div>
                       <div id='emailHelp' class='form-text'>
                         A temporary charge of $100 will be placed on your card
-                        for reservation purposes
+                        for reservation purposes.
                       </div>
 
                       <br />
